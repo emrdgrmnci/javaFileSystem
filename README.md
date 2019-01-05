@@ -2,4 +2,4 @@
 Java File Systems
 
 
-Java final exam # InputStream() and # OutputStream() studies.
+Java final exam #InputStream() and #OutputStream() studies.
